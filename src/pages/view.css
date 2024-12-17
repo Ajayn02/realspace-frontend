@@ -1,0 +1,48 @@
+.viewbtn{
+   width:max-content;
+}
+
+.viewbtn:hover span{
+    display: none;
+}
+
+
+
+
+#loc:hover {
+    background-color: #311461;
+    color: white;}
+
+#msg:hover {
+    background-color: #311461;
+    color: white; }
+
+ #save:hover {
+    background-color: #311461;
+    color: white;
+ }
+
+ #rep:hover {
+    background-color: #311461;
+    color: white; }
+
+
+
+
+
+
+#loc:hover::before{
+    content: "Location";
+}
+
+#msg:hover::before{
+    content: "Message";
+}
+
+#save:hover::before{
+    content: "Save";
+}
+
+#rep:hover::before{
+    content: "Report";
+}

@@ -1,0 +1,35 @@
+.banner{
+    /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr85Qt8VREj1-GmJJrUS6j1jaiNMDdRKHDQw&s'); */
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/021/598/876/small_2x/purple-wavy-line-on-the-black-background-abstract-modern-backdrop-photo.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+#calender{
+    background-image: url('https://img.freepik.com/free-photo/3d-render-notebook-mock-up-with-clean-blank-design-advertising-3d-illustration-perspective-view_460848-8269.jpg?t=st=1733120085~exp=1733123685~hmac=18fc894bfc60c844e92f7c8172fcacc8d0eea8447b64556759bf4f5c23758618&w=826');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white}
+
+
+#dashbtn{
+    background-color: none;
+}
+
+
+#dashbtn:hover{
+    background-color: #311461;
+    color: white;
+}
+
+#dashbtn2{
+    background-color: none;
+}
+
+
+#dashbtn2:hover{
+    background-color: #311461;
+    color: white;
+}

@@ -1,0 +1,27 @@
+
+#accmain{
+    width:80% ;
+    flex-direction: column;
+}
+
+.profilediv{
+    border-radius:20px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+/* @media (max-width:1200px) {
+    #accmain{
+        width:80% ;
+        
+    }
+} */
+@media (max-width:1000px) {
+    #accmain{
+        width:100% ;
+        
+    }
+}

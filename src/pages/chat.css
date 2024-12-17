@@ -1,0 +1,17 @@
+#msgbtn{
+    color: #311461;
+}
+#msgbtn:hover{
+    background-color: #311461;
+    color: white;
+}
+
+
+#clctbtn{
+    color: red;
+}
+
+#clctbtn:hover{
+    background-color: red;
+    color: white;
+}

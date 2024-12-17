@@ -1,0 +1,23 @@
+
+
+.offlink{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.offlink:hover{
+        transform: scale(1.01);
+        color: #722ed1;
+}
+
+#btnhome{
+    background-color: #301263;
+    color: white;
+}
+
+#btnhome:hover{
+    background-color: white;
+    color: #301263;
+}
+
