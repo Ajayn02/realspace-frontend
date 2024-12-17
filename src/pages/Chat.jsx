@@ -10,7 +10,7 @@ import userimg from '../icons/userimg.png'
 import './chat.css'
 
 
-const socket = io.connect("http://localhost:3001")
+const socket = io.connect("https://realspace-socket.onrender.com")
 
 
 
