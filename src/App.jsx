@@ -5,7 +5,6 @@ import Auth from './pages/Auth';
 import Home from './pages/Home';
 import Account from './pages/Account';
 import Save from './pages/Save';
-import Message from './pages/Message';
 import Admin from './pages/Admin';
 import  { Toaster } from 'react-hot-toast';
 import { useContext,useEffect } from 'react';
@@ -36,7 +35,6 @@ function App() {
       <Route path='/acc' element={log?<Account/>:<Auth/>} />
       <Route path='/save' element={log?<Save/>:<Auth/>} />
       <Route path='/view/:id' element={log?<View/>:<Auth/>} />
-      <Route path='/msg' element={log?<Message/>:<Auth/>} />
       <Route path='/chat' element={log?<Chat/>:<Auth/>} />
       <Route path='/admin' element={log?<Admin/>:<Auth/>} />
 
