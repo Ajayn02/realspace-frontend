@@ -16,7 +16,7 @@ function Landing() {
             <div className='container ' >
               <h2 >Find Your Dream Home,<br />Live Your Dream Life </h2>
               <p style={{ textAlign: "justify" }}>Welcome to RealSpace, your one-stop destination for buying, selling, and renting properties. Explore our wide range of listings, and discover your perfect match today.</p>
-              <Link to={"/auth"} className='btn btn-secondary px-5'>Let's Strat </Link>
+              <Link to={"/auth"} className='btn btn-secondary px-5'>Let's Start </Link>
             </div>
           </Col>
           <Col md={6} sm={12} className=' container d-flex justify-content-center align-items-center'>
